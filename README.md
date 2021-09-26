@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankshuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankshuman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/angshuman.chakrabartty" target="blank"><img align="center" src="" alt="anshuman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/angshuman.chakrabartty" target="blank"><img align="center" src="https://github.com/Anxhuman/New_Website_Design/blob/master/social-icons/facebook.svg" alt="anshuman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,9 +21,6 @@ Your kind support keeps open-source tools like this free for others.
 tweet github profile readme generator
 Let the world know how you feel using this tool. Share with others on twitter.
 Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
 github profile markdown generator logo
 GitHub Profile README Generator
 Pages
