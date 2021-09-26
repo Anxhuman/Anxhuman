@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 - 👨‍💻 My Portfolio is available at - https://Anxhuman.github.io
 <p></p>
-- 📫 You can reach me at - <a href = "angshumanchakrabartty@gmail.com">angshumanchakrabartty@gmail.com</a>
+- 📫 You can reach me at - <a href = "mailto:angshumanchakrabartty@gmail.com">angshumanchakrabartty@gmail.com</a>
 <p></p>
 <p align="left">
 <a href="https://twitter.com/ankshuman" target="blank"><img align="center" src="https://github.com/Anxhuman/New_Website_Design/blob/master/social-icons/twitter.svg" alt="ankshuman" height="30" width="40" /></a>
