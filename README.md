@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Angshuman</h1>
+<h1 align="center">Hi 👋, I am Angshuman</h1>
 <h3 align="center">An UI/UX Developer </h3>
 
 <p align="left"> <a href="https://twitter.com/ankshuman" target="blank"><img src="https://img.shields.io/twitter/follow/ankshuman?logo=twitter&style=for-the-badge" alt="ankshuman" /></a></p>
