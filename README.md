@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/angshuman.chakrabartty" target="blank"><img align="center" src="https://github.com/Anxhuman/New_Website_Design/blob/master/social-icons/facebook.svg" alt="anshuman" height="30" width="40" /></a> &nbsp;- &nbsp;
   <a href="https://www.instagram.com/ansxhu" target="blank"><img align="center" src="https://github.com/Anxhuman/New_Website_Design/blob/master/social-icons/instagram.svg" alt="anshuman" height="30" width="40" /></a> &nbsp;- &nbsp;
     <a href="https://www.linkedin.com/in/angshuman-chakrabartty-47536462" target="blank"><img align="center" src="https://github.com/Anxhuman/New_Website_Design/blob/master/social-icons/linked-in-alt.svg" alt="anshuman" height="30" width="40" /></a>
-  
+   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
